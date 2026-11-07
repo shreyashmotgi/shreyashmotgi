@@ -8,12 +8,10 @@
 
 Building practical web applications and AI-powered solutions.
 
-<a href="https://www.linkedin.com/in/shreyash-motgi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/shreyashmotgi">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
+<p align="center">
+  <a href="mailto:shreyashmotagi99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/shreyashmotgi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 </div>
 
@@ -107,26 +105,6 @@ A web application developed during my Web Developer Internship to streamline ins
 - Structured event documentation workflows.
 - Reusable event information and document generation.
 - Document management and retrieval.
-
----
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyashmotgi&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashmotgi&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyashmotgi&theme=github-dark-blue&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyashmotgi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
